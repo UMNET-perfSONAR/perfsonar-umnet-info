@@ -1,9 +1,11 @@
 # umnet-perfsonar-info
-Info for perfSONAR at the University of Michigan
+perfSONAR is a network performance testing system in use at the University of Michigan
 
 ---
 
-[Mobile Network Testpoint Project](https://github.com/UMNET-perfSONAR/perfsonar-mobile-testpoints)
+[Mobile Network Testpoints](https://github.com/UMNET-perfSONAR/perfsonar-mobile-testpoints)
+
+This service is for campus network perfromance testing.
 
 ---
 
