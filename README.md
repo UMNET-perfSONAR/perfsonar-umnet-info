@@ -13,4 +13,4 @@ This service is for campus network perfromance testing.
 
 ---
 
-<img src="QR_codes/github_umnet_perfsonar_info.png" alt="drawing" width="128"/>
+<img src="QR_codes/github_umnet_perfsonar_info_color.png" alt="drawing" width="128"/>
