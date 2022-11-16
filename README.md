@@ -9,7 +9,7 @@ This service is for campus network perfromance testing.
 
 ---
 
-[Mobile Network Testpoint Project](https://github.com/UMNET-perfSONAR/pssid-wifi-testing/blob/main/README.md)
+[WiFi Testing with pSSID](https://github.com/UMNET-perfSONAR/pssid-wifi-testing/blob/main/README.md)
 
 ---
 
